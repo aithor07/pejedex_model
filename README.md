@@ -134,19 +134,14 @@ im = im.crop_central(224)         # recorte CUADRADO centrado
 - La app usa **nombres canarios** (*Bocinegro*, *Cabozo*…); el modelo devuelve
   **nombres estándar** (*Pargo*, *Serrano*…) y el nombre científico. Hay que
   mapear por `scientificName` usando `data_raw/names_es.json`.
-- El modelo no tiene opción "no lo sé": ante una especie fuera de las 240
-  igual elige una. Si quieres rechazar, calibra un umbral sobre `max(softmax)`.
 
-## Notas
 
-- Las fotos de prueba del root (`lubina.jpeg`, `bocinegro.jpeg`…) no se suben.
-- `script.py` en la raíz es un clasificador heredado del modelo original de
-  referencia; no forma parte del pipeline.
-- Los crudos, los datasets y los `.pt` con optimizer no se suben por tamaño.
-  `checkpoints/best_slim.pt` (35 MB) sí: alcanza para re-exportar el modelo
-  exacto sin reentrenar.
 
 ## Licencia de los datos
 
 Fotos de iNaturalist bajo sus licencias abiertas (CC0, PDM, CC BY, CC BY-SA,
 CC BY-NC, CC BY-NC-SA). Respeta los términos de cada autor al reutilizarlas.
+
+# Condiciones
+
+En caso de usar este modelo, dar creditos: github.com/aithor07

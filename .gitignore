@@ -3,9 +3,14 @@ data_raw/*
 !data_raw/names_es.json
 dataset/
 build/
-model/
-checkpoints/
+checkpoints/*
+!checkpoints/best_slim.pt
 checkpoints_165/
+
+# --- modelo: solo el entregable final para la app ---
+model/*
+!model/pejedex.tflite
+!model/labels.txt
 
 # --- entornos virtuales ---
 .venv/

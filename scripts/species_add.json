@@ -1,0 +1,581 @@
+{
+ "note": "especies costeras nuevas para PejeDex (>=90 fotos iNat con NC)",
+ "candidates": [
+  {
+   "key": "Abudefduf saxatilis",
+   "es": "Fula tropical",
+   "family": "Pomacentridae",
+   "min_size": 0.0,
+   "photos": 8680,
+   "taxon_id": 49402
+  },
+  {
+   "key": "Acanthocybium solandri",
+   "es": "Peto",
+   "family": "Scombridae",
+   "min_size": 0.0,
+   "photos": 338,
+   "taxon_id": 47257
+  },
+  {
+   "key": "Aetomylaeus bovinus",
+   "es": "Pejeobispo",
+   "family": "Myliobatidae",
+   "min_size": 0.0,
+   "photos": 133,
+   "taxon_id": 607460
+  },
+  {
+   "key": "Aluterus scriptus",
+   "es": "Gallo azul",
+   "family": "Monacanthidae",
+   "min_size": 0.0,
+   "photos": 3023,
+   "taxon_id": 49498
+  },
+  {
+   "key": "Anthias anthias",
+   "es": "Fula amarilla",
+   "family": "Serranidae",
+   "min_size": 0.0,
+   "photos": 724,
+   "taxon_id": 118672
+  },
+  {
+   "key": "Apletodon pellegrini",
+   "es": "Chupasangre cabezón",
+   "family": "Gobiesocidae",
+   "min_size": 0.0,
+   "photos": 95,
+   "taxon_id": 359900
+  },
+  {
+   "key": "Ariosoma balearicum",
+   "es": "Congrio de arena",
+   "family": "Congridae",
+   "min_size": 0.0,
+   "photos": 438,
+   "taxon_id": 120641
+  },
+  {
+   "key": "Azurina multilineata",
+   "es": "Fula azul rayada",
+   "family": "Pomacentridae",
+   "min_size": 0.0,
+   "photos": 1319,
+   "taxon_id": 1315932
+  },
+  {
+   "key": "Bathytoshia lata",
+   "es": "Chucho",
+   "family": "Dasyatidae",
+   "min_size": 0.0,
+   "photos": 186,
+   "taxon_id": 516612
+  },
+  {
+   "key": "Canthidermis sufflamen",
+   "es": "Gallo aplomado",
+   "family": "Balistidae",
+   "min_size": 0.0,
+   "photos": 532,
+   "taxon_id": 131526
+  },
+  {
+   "key": "Canthigaster capistrata",
+   "es": "Gallinera",
+   "family": "Tetraodontidae",
+   "min_size": 0.0,
+   "photos": 598,
+   "taxon_id": 128858
+  },
+  {
+   "key": "Caranx latus",
+   "es": "Jurel ojón",
+   "family": "Carangidae",
+   "min_size": 0.0,
+   "photos": 1160,
+   "taxon_id": 47227
+  },
+  {
+   "key": "Caranx lugubris",
+   "es": "Jurel chino",
+   "family": "Carangidae",
+   "min_size": 0.0,
+   "photos": 309,
+   "taxon_id": 69775
+  },
+  {
+   "key": "Chelidonichthys obscurus",
+   "es": "Rubio de pluma",
+   "family": "Triglidae",
+   "min_size": 0.0,
+   "photos": 164,
+   "taxon_id": 118626
+  },
+  {
+   "key": "Chilomycterus reticulatus",
+   "es": "Tamboril espinoso",
+   "family": "Diodontidae",
+   "min_size": 0.0,
+   "photos": 640,
+   "taxon_id": 49927
+  },
+  {
+   "key": "Coris melanura",
+   "es": "Doncella",
+   "family": "Labridae",
+   "min_size": 0.0,
+   "photos": 461,
+   "taxon_id": 1360107
+  },
+  {
+   "key": "Coryphoblennius galerita",
+   "es": "Barriguda de cresta",
+   "family": "Blenniidae",
+   "min_size": 0.0,
+   "photos": 1214,
+   "taxon_id": 118692
+  },
+  {
+   "key": "Decapterus macarellus",
+   "es": "Chicharro verde",
+   "family": "Carangidae",
+   "min_size": 0.0,
+   "photos": 147,
+   "taxon_id": 121225
+  },
+  {
+   "key": "Decapterus punctatus",
+   "es": "Chicharro tropical",
+   "family": "Carangidae",
+   "min_size": 0.0,
+   "photos": 171,
+   "taxon_id": 123659
+  },
+  {
+   "key": "Dicentrarchus punctatus",
+   "es": "Baila",
+   "family": "Moronidae",
+   "min_size": 0.0,
+   "photos": 150,
+   "taxon_id": 118616
+  },
+  {
+   "key": "Enchelycore anatina",
+   "es": "Bogavante",
+   "family": "Muraenidae",
+   "min_size": 0.0,
+   "photos": 123,
+   "taxon_id": 243643
+  },
+  {
+   "key": "Euthynnus alletteratus",
+   "es": "Albacoreta",
+   "family": "Scombridae",
+   "min_size": 0.0,
+   "photos": 431,
+   "taxon_id": 120614
+  },
+  {
+   "key": "Gaidropsarus mediterraneus",
+   "es": "Brota de tierra",
+   "family": "Lotidae",
+   "min_size": 0.0,
+   "photos": 243,
+   "taxon_id": 118602
+  },
+  {
+   "key": "Galeorhinus galeus",
+   "es": "Cazón dientuzo",
+   "family": "Triakidae",
+   "min_size": 0.0,
+   "photos": 471,
+   "taxon_id": 101176
+  },
+  {
+   "key": "Gobius roulei",
+   "es": "Cabozo mediterráneo",
+   "family": "Gobiidae",
+   "min_size": 0.0,
+   "photos": 281,
+   "taxon_id": 446061
+  },
+  {
+   "key": "Gobius xanthocephalus",
+   "es": "Cabozo dorado",
+   "family": "Gobiidae",
+   "min_size": 0.0,
+   "photos": 660,
+   "taxon_id": 101626
+  },
+  {
+   "key": "Gymnothorax miliaris",
+   "es": "Morena moteada",
+   "family": "Muraenidae",
+   "min_size": 0.0,
+   "photos": 799,
+   "taxon_id": 49256
+  },
+  {
+   "key": "Gymnura altavela",
+   "es": "Mantelina",
+   "family": "Gymnuridae",
+   "min_size": 0.0,
+   "photos": 293,
+   "taxon_id": 101906
+  },
+  {
+   "key": "Heteroconger longissimus",
+   "es": "Anguila jardinera",
+   "family": "Congridae",
+   "min_size": 0.0,
+   "photos": 358,
+   "taxon_id": 127706
+  },
+  {
+   "key": "Heteropriacanthus fulgens",
+   "es": "Catalufa",
+   "family": "Priacanthidae",
+   "min_size": 0.0,
+   "photos": 179,
+   "taxon_id": 580747
+  },
+  {
+   "key": "Katsuwonus pelamis",
+   "es": "Bonito",
+   "family": "Scombridae",
+   "min_size": 0.0,
+   "photos": 256,
+   "taxon_id": 56943
+  },
+  {
+   "key": "Kyphosus sectatrix",
+   "es": "Chopón",
+   "family": "Kyphosidae",
+   "min_size": 0.0,
+   "photos": 835,
+   "taxon_id": 131523
+  },
+  {
+   "key": "Labrisomus canariensis",
+   "es": "Pejediablo",
+   "family": "Labrisomidae",
+   "min_size": 0.0,
+   "photos": 123,
+   "taxon_id": 1708625
+  },
+  {
+   "key": "Lepadogaster candolii",
+   "es": "Chupasangre colorado",
+   "family": "Gobiesocidae",
+   "min_size": 0.0,
+   "photos": 451,
+   "taxon_id": 118606
+  },
+  {
+   "key": "Lepadogaster lepadogaster",
+   "es": "Chupasangre pintado",
+   "family": "Gobiesocidae",
+   "min_size": 0.0,
+   "photos": 293,
+   "taxon_id": 472138
+  },
+  {
+   "key": "Lipophrys trigloides",
+   "es": "Barriguda remuda",
+   "family": "Blenniidae",
+   "min_size": 0.0,
+   "photos": 576,
+   "taxon_id": 342285
+  },
+  {
+   "key": "Mauligobius maderensis",
+   "es": "Cabozo de Madeira",
+   "family": "Gobiidae",
+   "min_size": 0.0,
+   "photos": 642,
+   "taxon_id": 118707
+  },
+  {
+   "key": "Melichthys niger",
+   "es": "Gallo negro",
+   "family": "Balistidae",
+   "min_size": 0.0,
+   "photos": 2415,
+   "taxon_id": 52464
+  },
+  {
+   "key": "Merluccius merluccius",
+   "es": "Merluza",
+   "family": "Merlucciidae",
+   "min_size": 27.0,
+   "photos": 124,
+   "taxon_id": 118603
+  },
+  {
+   "key": "Mulloidichthys martinicus",
+   "es": "Salmonete tropical",
+   "family": "Mullidae",
+   "min_size": 0.0,
+   "photos": 1576,
+   "taxon_id": 128172
+  },
+  {
+   "key": "Muraena augusti",
+   "es": "Morena negra",
+   "family": "Muraenidae",
+   "min_size": 56.0,
+   "photos": 297,
+   "taxon_id": 342089
+  },
+  {
+   "key": "Mustelus asterias",
+   "es": "Cazón moteado",
+   "family": "Triakidae",
+   "min_size": 0.0,
+   "photos": 101,
+   "taxon_id": 106253
+  },
+  {
+   "key": "Mycteroperca fusca",
+   "es": "Abade",
+   "family": "Serranidae",
+   "min_size": 35.0,
+   "photos": 524,
+   "taxon_id": 106306
+  },
+  {
+   "key": "Nerophis ophidion",
+   "es": "Aguja de seba",
+   "family": "Syngnathidae",
+   "min_size": 0.0,
+   "photos": 112,
+   "taxon_id": 118623
+  },
+  {
+   "key": "Ophioblennius atlanticus",
+   "es": "Barriguda mora",
+   "family": "Blenniidae",
+   "min_size": 0.0,
+   "photos": 591,
+   "taxon_id": 63412
+  },
+  {
+   "key": "Parablennius parvicornis",
+   "es": "Barriguda de charco",
+   "family": "Blenniidae",
+   "min_size": 0.0,
+   "photos": 756,
+   "taxon_id": 108409
+  },
+  {
+   "key": "Parapristipoma octolineatum",
+   "es": "Burrito listado",
+   "family": "Haemulidae",
+   "min_size": 0.0,
+   "photos": 102,
+   "taxon_id": 359901
+  },
+  {
+   "key": "Platybelone argalus",
+   "es": "Aguja rabuda",
+   "family": "Belonidae",
+   "min_size": 0.0,
+   "photos": 171,
+   "taxon_id": 109633
+  },
+  {
+   "key": "Pomadasys incisus",
+   "es": "Roncador",
+   "family": "Haemulidae",
+   "min_size": 0.0,
+   "photos": 273,
+   "taxon_id": 110029
+  },
+  {
+   "key": "Pomatoschistus pictus",
+   "es": "Cabosito de arena",
+   "family": "Gobiidae",
+   "min_size": 0.0,
+   "photos": 705,
+   "taxon_id": 342287
+  },
+  {
+   "key": "Priacanthus arenatus",
+   "es": "Catalufa tropical",
+   "family": "Priacanthidae",
+   "min_size": 0.0,
+   "photos": 128,
+   "taxon_id": 179478
+  },
+  {
+   "key": "Pseudocaranx dentex",
+   "es": "Jurel",
+   "family": "Carangidae",
+   "min_size": 0.0,
+   "photos": 435,
+   "taxon_id": 204776
+  },
+  {
+   "key": "Pteroplatytrygon violacea",
+   "es": "Chucho morado",
+   "family": "Dasyatidae",
+   "min_size": 0.0,
+   "photos": 146,
+   "taxon_id": 111212
+  },
+  {
+   "key": "Raja brachyura",
+   "es": "Raya",
+   "family": "Rajidae",
+   "min_size": 0.0,
+   "photos": 276,
+   "taxon_id": 111518
+  },
+  {
+   "key": "Raja montagui",
+   "es": "Raya de pintas negras",
+   "family": "Rajidae",
+   "min_size": 0.0,
+   "photos": 452,
+   "taxon_id": 111527
+  },
+  {
+   "key": "Rostroraja alba",
+   "es": "Raya picuda clara",
+   "family": "Rajidae",
+   "min_size": 0.0,
+   "photos": 177,
+   "taxon_id": 61753
+  },
+  {
+   "key": "Sarda sarda",
+   "es": "Sierra",
+   "family": "Scombridae",
+   "min_size": 0.0,
+   "photos": 186,
+   "taxon_id": 56940
+  },
+  {
+   "key": "Sardinella aurita",
+   "es": "Alacha",
+   "family": "Clupeidae",
+   "min_size": 0.0,
+   "photos": 243,
+   "taxon_id": 118599
+  },
+  {
+   "key": "Scartella cristata",
+   "es": "Barriguda de pelo",
+   "family": "Blenniidae",
+   "min_size": 0.0,
+   "photos": 930,
+   "taxon_id": 120708
+  },
+  {
+   "key": "Scatophagus argus",
+   "es": "Pingo manchado",
+   "family": "Scatophagidae",
+   "min_size": 0.0,
+   "photos": 924,
+   "taxon_id": 112173
+  },
+  {
+   "key": "Seriola rivoliana",
+   "es": "Medregal negro",
+   "family": "Carangidae",
+   "min_size": 0.0,
+   "photos": 412,
+   "taxon_id": 51553
+  },
+  {
+   "key": "Serranus papilionaceus",
+   "es": "Vaquita",
+   "family": "Serranidae",
+   "min_size": 0.0,
+   "photos": 311,
+   "taxon_id": 1316085
+  },
+  {
+   "key": "Similiparma lurida",
+   "es": "Fula negra",
+   "family": "Pomacentridae",
+   "min_size": 0.0,
+   "photos": 820,
+   "taxon_id": 1256672
+  },
+  {
+   "key": "Sparus auratus",
+   "es": "Sama zapata",
+   "family": "Sparidae",
+   "min_size": 19.0,
+   "photos": 2219,
+   "taxon_id": 1494783
+  },
+  {
+   "key": "Sphoeroides marmoratus",
+   "es": "Tamboril de hondura",
+   "family": "Tetraodontidae",
+   "min_size": 0.0,
+   "photos": 482,
+   "taxon_id": 342289
+  },
+  {
+   "key": "Stephanolepis hispida",
+   "es": "Gallo verde",
+   "family": "Monacanthidae",
+   "min_size": 0.0,
+   "photos": 1055,
+   "taxon_id": 132526
+  },
+  {
+   "key": "Synodus saurus",
+   "es": "Lagarto de arena",
+   "family": "Synodontidae",
+   "min_size": 0.0,
+   "photos": 877,
+   "taxon_id": 113701
+  },
+  {
+   "key": "Taeniurops grabatus",
+   "es": "Chucho negro",
+   "family": "Dasyatidae",
+   "min_size": 0.0,
+   "photos": 313,
+   "taxon_id": 1303403
+  },
+  {
+   "key": "Thunnus alalunga",
+   "es": "Barrilote",
+   "family": "Scombridae",
+   "min_size": 0.0,
+   "photos": 111,
+   "taxon_id": 114122
+  },
+  {
+   "key": "Thunnus albacares",
+   "es": "Rabil",
+   "family": "Scombridae",
+   "min_size": 3.2,
+   "photos": 552,
+   "taxon_id": 69675
+  },
+  {
+   "key": "Thunnus thynnus",
+   "es": "Patudo",
+   "family": "Scombridae",
+   "min_size": 30.0,
+   "photos": 274,
+   "taxon_id": 114126
+  },
+  {
+   "key": "Turrum fulvoguttatum",
+   "es": "Jurel pintorriado",
+   "family": "Carangidae",
+   "min_size": 0.0,
+   "photos": 411,
+   "taxon_id": 1360115
+  }
+ ]
+}

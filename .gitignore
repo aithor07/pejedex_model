@@ -1,0 +1,27 @@
+# --- datos y modelos (no se suben) ---
+data_raw/*
+!data_raw/names_es.json
+dataset/
+build/
+model/
+checkpoints/
+checkpoints_165/
+
+# --- entornos virtuales ---
+.venv/
+.venv-train/
+
+# --- python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# --- logs y temporales ---
+logs/
+*.log
+*.tmp
+
+# --- fotos de prueba ---
+*.jpeg
+*.jpg
+*.png
